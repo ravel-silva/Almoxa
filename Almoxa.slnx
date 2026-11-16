@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Almoxa.Api/Almoxa.Api.csproj" />
+  <Project Path="Almoxa.Application/Almoxa.Application.csproj" />
+  <Project Path="Almoxa.Domain/Almoxa.Domain.csproj" />
+  <Project Path="Almoxa.Infrastructure/Almoxa.Infrastructure.csproj" />
+  <Project Path="Almoxa.Tests/Almoxa.Tests.csproj" />
+</Solution>
